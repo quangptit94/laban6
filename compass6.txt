@@ -1,0 +1,9 @@
+{
+    "data-update":[
+	    {
+	    "is-alive-store":"true",
+	    "is-show-out":"true",
+            "package-name-replace":"com.smartapp.digitalcompass.gpscompass.free"
+        }
+    ]
+}
