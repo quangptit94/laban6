@@ -1,9 +1,9 @@
 {
     "data-update":[
 	    {
-	    "is-alive-store":"true",
+	    "is-alive-store":"false",
 	    "is-show-out":"true",
-            "package-name-replace":"com.smartapp.digitalcompass.gpscompass.free"
+            "package-name-replace":"com.smartcompass.gpsmap.weatherdaily.pro"
         }
     ]
 }
