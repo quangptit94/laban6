@@ -1,0 +1,13 @@
+{
+    "my-data":[
+	    {
+	    "is-alive-store":"true",
+	     "is-show-out":"true",
+	    "ad-priority": "2",
+	     "time-bettwen-in":"5",
+	     "time-bettwen":"3",
+	    "time-start-out":"16",
+      	 "package-name-replace":"xxx.yyy.zzzz"
+        }
+    ]
+}
