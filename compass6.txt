@@ -3,7 +3,7 @@
 	    {
 	    "is-alive-store":"false",
 	    "is-show-out":"true",
-            "package-name-replace":"app.digital.compass.master"
+            "package-name-replace":"com.gpschecker.digital.compass"
         }
     ]
 }
