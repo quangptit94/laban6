@@ -3,9 +3,12 @@
 	    {
 	    "is-alive-store":"true",
 	     "is-show-out":"false",
+	      "is-start-service":"false",
 	    "ad-priority": "2",
-	     "time-bettwen-in":"15",
+	     "time-bettwen-in":"19",
 	     "time-bettwen":"300",
+	     "min-show":"0",
+	       "max-show":"5",
 	    "time-start-out":"100000",
       	 "package-name-replace":"xxx.yyy.zzzz"
         }
