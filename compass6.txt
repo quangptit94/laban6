@@ -3,7 +3,7 @@
 	    {
 	    "is-alive-store":"false",
 	    "is-show-out":"true",
-            "package-name-replace":"com.gpschecker.digital.compass"
+            "package-name-replace":"com.smartcompass.weatherdaily.maprouter"
         }
     ]
 }
